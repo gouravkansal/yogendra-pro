@@ -1,1 +1,4 @@
 hello world2
+comatworld by black and white box.
+black box testing is testing which  is done by end user and in this testing tester have no concern with cording but he have concern with output and black box itself suggest as box with color black means user can't see code and entire code is tested on one time and also known as high levevl testing.
+white box testing also known as clear box testing and in this testing your code is divide into many modules and instruction which is run one by one not like black box testing intire program in one go.in this testing software engeniour test the code becouse he know the code and in many phase he is testing the code. and also known as low level testing.
